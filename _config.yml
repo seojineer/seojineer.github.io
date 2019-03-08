@@ -253,6 +253,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
+# connect category_dir when click category
+category_dir: category/
+tag_dir: tag/
 tag_archive:
   type: liquid
   path: /tags/
