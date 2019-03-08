@@ -3,3 +3,8 @@ layout: category
 title: CI_CD
 category: blog
 ---
+<ul>
+	{% for post in site.categories.[카테고리이름] %}
+	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
