@@ -1,0 +1,15 @@
+buglinks: []
+id: '12'
+job: '12'
+level: ''
+log_end_line: ''
+log_start_line: ''
+logged: '2018-12-21 06:09:35.249866+00:00'
+measurement: None
+metadata: {case: job, definition: lava, error_msg: 'Unsupported url protocol scheme: ',
+  error_type: Job, result: fail}
+name: job
+result: fail
+suite: lava
+unit: ''
+url: /results/testcase/12
